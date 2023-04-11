@@ -1,0 +1,40 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/app/(quizzes)/page": [
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/styles/globals.css",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Playfair_Display\",\"arguments\":[{\"variable\":\"--font-playfair-display\",\"subsets\":[\"latin\"]}],\"variableName\":\"playfair\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Domine\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-domine\",\"display\":\"optional\"}],\"variableName\":\"domine\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Fraunces\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-fraunces\",\"display\":\"optional\"}],\"variableName\":\"fraunces\"}"
+    ],
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/app/(quizzes)/quizzes/[id]/page": [
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/styles/globals.css",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Playfair_Display\",\"arguments\":[{\"variable\":\"--font-playfair-display\",\"subsets\":[\"latin\"]}],\"variableName\":\"playfair\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Domine\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-domine\",\"display\":\"optional\"}],\"variableName\":\"domine\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Fraunces\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-fraunces\",\"display\":\"optional\"}],\"variableName\":\"fraunces\"}"
+    ],
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/app/(dashboard)/dashboard/page": [
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/styles/globals.css",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Playfair_Display\",\"arguments\":[{\"variable\":\"--font-playfair-display\",\"subsets\":[\"latin\"]}],\"variableName\":\"playfair\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Domine\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-domine\",\"display\":\"optional\"}],\"variableName\":\"domine\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Fraunces\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-fraunces\",\"display\":\"optional\"}],\"variableName\":\"fraunces\"}"
+    ],
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/app/(quizzes)/profile/page": [
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/styles/globals.css",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Playfair_Display\",\"arguments\":[{\"variable\":\"--font-playfair-display\",\"subsets\":[\"latin\"]}],\"variableName\":\"playfair\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Domine\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-domine\",\"display\":\"optional\"}],\"variableName\":\"domine\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Fraunces\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-fraunces\",\"display\":\"optional\"}],\"variableName\":\"fraunces\"}"
+    ],
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/app/(dashboard)/dashboard/createQuiz/page": [
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/styles/globals.css",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Playfair_Display\",\"arguments\":[{\"variable\":\"--font-playfair-display\",\"subsets\":[\"latin\"]}],\"variableName\":\"playfair\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Domine\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-domine\",\"display\":\"optional\"}],\"variableName\":\"domine\"}",
+      "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Fraunces\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-fraunces\",\"display\":\"optional\"}],\"variableName\":\"fraunces\"}"
+    ]
+  },
+  "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/app/layout.tsx": [
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Playfair_Display\",\"arguments\":[{\"variable\":\"--font-playfair-display\",\"subsets\":[\"latin\"]}],\"variableName\":\"playfair\"}",
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Domine\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-domine\",\"display\":\"optional\"}],\"variableName\":\"domine\"}",
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/node_modules/@next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Fraunces\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-fraunces\",\"display\":\"optional\"}],\"variableName\":\"fraunces\"}",
+    "/Users/adamksiazek/Documents/typescriptpotter 2/client/src/styles/globals.css"
+  ]
+}

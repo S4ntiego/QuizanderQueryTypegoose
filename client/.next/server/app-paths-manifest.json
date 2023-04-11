@@ -1,0 +1,7 @@
+{
+  "/(quizzes)/page": "app/(quizzes)/page.js",
+  "/(quizzes)/quizzes/[id]/page": "app/(quizzes)/quizzes/[id]/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(quizzes)/profile/page": "app/(quizzes)/profile/page.js",
+  "/(dashboard)/dashboard/createQuiz/page": "app/(dashboard)/dashboard/createQuiz/page.js"
+}
